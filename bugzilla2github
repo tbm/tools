@@ -7,6 +7,7 @@
 # How to use the script:
 # 1. Generate a GitHub access token:
 #    - on GitHub select "Settings"
+#    - select "Developer settings"
 #    - select "Personal access tokens"
 #    - click "Generate new token"
 #    - type a token description, i.e. "bugzilla2github"
